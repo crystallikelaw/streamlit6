@@ -11,4 +11,3 @@ python-steam-api
 requests
 func-timeout
 selenium
-mysql-connector-python
