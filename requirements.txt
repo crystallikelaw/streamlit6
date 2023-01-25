@@ -5,7 +5,6 @@ pandas
 seaborn
 scipy
 scikit-learn
-re
 tqdm
 bs4
 python-steam-api
