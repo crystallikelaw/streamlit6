@@ -5,9 +5,7 @@ pandas
 seaborn
 scipy
 scikit-learn
-glob
 re
-datetime
 tqdm
 bs4
 python-steam-api
