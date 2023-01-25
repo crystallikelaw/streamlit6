@@ -25,7 +25,7 @@ nltk.download('wordnet')
 
 df_vids=pd.read_pickle('./dfvids.p')
 
-st.markdown(# Youtube for Gaming ontent Creators)
+st.markdown('# Youtube for Gaming Content Creators')
 
 if app_mode=='Dashboard':
     filter = st.sidebar.radio("Scope", ["Full Dataset", "Single Channel"])
