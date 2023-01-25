@@ -9,7 +9,6 @@ tqdm
 bs4
 python-steam-api
 requests
-json
 func-timeout
 selenium
 mysql-connector-python
